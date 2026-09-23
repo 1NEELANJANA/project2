@@ -1,4 +1,4 @@
 #New Project
   
-  this project was created from local system.
-  by Neelanjana Dutta
+  this project was created from local systems
+  by Neelanjana Dutta.
